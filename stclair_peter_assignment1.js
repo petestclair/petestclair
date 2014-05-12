@@ -1,7 +1,7 @@
 // Peter StClair
 // 05/08/14
 // SDI Assignment: Project 1
-
+// testing line of code
 
 // variables
 var themePark = "\"Fun\" Land";
